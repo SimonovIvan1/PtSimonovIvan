@@ -1,5 +1,5 @@
 # PtSimonovIvan
-Programming technology Simonov Ivan RGRTY 2course
+<p align="center">Programming technology Simonov Ivan RGRTY 2course<p/>
 
 <p align="center">Министерство науки и высшего образования Российской Федерации<p/>
 <p align="center">Федеральное государственное бюджетное образовательное учреждение <p/>
