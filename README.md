@@ -51,3 +51,4 @@
 
 <h3 align="center">BPMN-диаграмма</h3>
 
+![alt text](https://github.com/SimonovIvan1/PtSimonovIvan/blob/main/image.jpg?raw=true)
