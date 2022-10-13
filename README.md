@@ -51,7 +51,7 @@
 <h3 align="center">BPMN-диаграмма</h3>
 
 ![alt text](https://github.com/SimonovIvan1/PtSimonovIvan/blob/main/BPMN.png?raw=true)
-<span align="center">Рис.1</span>
+<p align="center">Рис.1</p>
 
 <h3 align="center">1.3 Проблематика предметной области</h3>
 <span>Основные трудности при реализации проекта связаны с большой загруженностью менеджера по продажам и сборщика, из-за чего снижается эффективность работы магазина.</span>  
